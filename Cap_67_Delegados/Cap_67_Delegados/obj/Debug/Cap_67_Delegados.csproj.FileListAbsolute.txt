@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\bin\Debug\Cap_67_Delegados.exe.config
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\bin\Debug\Cap_67_Delegados.exe
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\bin\Debug\Cap_67_Delegados.pdb
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\obj\Debug\Cap_67_Delegados.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\obj\Debug\Cap_67_Delegados.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\obj\Debug\Cap_67_Delegados.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\obj\Debug\Cap_67_Delegados.exe
+C:\Users\chperez\Documents\CursoCsharp\Cap_67_Delegados\Cap_67_Delegados\obj\Debug\Cap_67_Delegados.pdb

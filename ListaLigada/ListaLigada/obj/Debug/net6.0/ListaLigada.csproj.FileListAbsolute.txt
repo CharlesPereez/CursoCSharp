@@ -1,0 +1,15 @@
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\bin\Debug\net6.0\ListaLigada.exe
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\bin\Debug\net6.0\ListaLigada.deps.json
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\bin\Debug\net6.0\ListaLigada.runtimeconfig.json
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\bin\Debug\net6.0\ListaLigada.dll
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\bin\Debug\net6.0\ListaLigada.pdb
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.AssemblyInfoInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.AssemblyInfo.cs
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.dll
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\refint\ListaLigada.dll
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.pdb
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ListaLigada.genruntimeconfig.cache
+C:\Users\chperez\Documents\CursoCsharp\ListaLigada\ListaLigada\obj\Debug\net6.0\ref\ListaLigada.dll

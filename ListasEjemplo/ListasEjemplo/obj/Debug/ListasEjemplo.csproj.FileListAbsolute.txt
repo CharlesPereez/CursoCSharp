@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe.config
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.pdb
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.pdb

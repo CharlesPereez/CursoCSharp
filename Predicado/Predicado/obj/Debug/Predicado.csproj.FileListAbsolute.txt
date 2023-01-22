@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\bin\Debug\Predicado.exe.config
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\bin\Debug\Predicado.exe
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\bin\Debug\Predicado.pdb
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\obj\Debug\Predicado.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\obj\Debug\Predicado.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\obj\Debug\Predicado.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\obj\Debug\Predicado.exe
+C:\Users\chperez\Documents\CursoCsharp\Predicado\Predicado\obj\Debug\Predicado.pdb

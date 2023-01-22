@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe.config
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.pdb
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.exe
+C:\Users\chperez\Documents\CursoCsharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.pdb

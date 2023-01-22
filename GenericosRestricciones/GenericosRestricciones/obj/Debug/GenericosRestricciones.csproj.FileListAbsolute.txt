@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\bin\Debug\GenericosRestricciones.exe.config
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\bin\Debug\GenericosRestricciones.exe
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\bin\Debug\GenericosRestricciones.pdb
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\obj\Debug\GenericosRestricciones.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\obj\Debug\GenericosRestricciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\obj\Debug\GenericosRestricciones.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\obj\Debug\GenericosRestricciones.exe
+C:\Users\chperez\Documents\CursoCsharp\GenericosRestricciones\GenericosRestricciones\obj\Debug\GenericosRestricciones.pdb

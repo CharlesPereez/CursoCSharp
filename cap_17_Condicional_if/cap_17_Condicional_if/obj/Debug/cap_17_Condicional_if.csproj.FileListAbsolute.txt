@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\bin\Debug\cap_17_Condicional_if.exe.config
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\bin\Debug\cap_17_Condicional_if.exe
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\bin\Debug\cap_17_Condicional_if.pdb
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\obj\Debug\cap_17_Condicional_if.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\obj\Debug\cap_17_Condicional_if.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\obj\Debug\cap_17_Condicional_if.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\obj\Debug\cap_17_Condicional_if.exe
+C:\Users\chperez\Documents\CursoCsharp\cap_17_Condicional_if\cap_17_Condicional_if\obj\Debug\cap_17_Condicional_if.pdb

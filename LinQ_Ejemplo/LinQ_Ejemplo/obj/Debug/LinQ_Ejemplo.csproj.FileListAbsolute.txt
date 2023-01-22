@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\bin\Debug\LinQ_Ejemplo.exe.config
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\bin\Debug\LinQ_Ejemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\bin\Debug\LinQ_Ejemplo.pdb
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\obj\Debug\LinQ_Ejemplo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\obj\Debug\LinQ_Ejemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\obj\Debug\LinQ_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\obj\Debug\LinQ_Ejemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\LinQ_Ejemplo\LinQ_Ejemplo\obj\Debug\LinQ_Ejemplo.pdb

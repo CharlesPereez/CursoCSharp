@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\bin\Debug\EjemploArrays.exe.config
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\bin\Debug\EjemploArrays.exe
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\bin\Debug\EjemploArrays.pdb
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\obj\Debug\EjemploArrays.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\obj\Debug\EjemploArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\obj\Debug\EjemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\obj\Debug\EjemploArrays.exe
+C:\Users\chperez\Documents\CursoCsharp\EjemploArrays\EjemploArrays\obj\Debug\EjemploArrays.pdb

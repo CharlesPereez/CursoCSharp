@@ -1,0 +1,15 @@
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\bin\Debug\net6.0\FactorialRecursivo.exe
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\bin\Debug\net6.0\FactorialRecursivo.deps.json
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\bin\Debug\net6.0\FactorialRecursivo.runtimeconfig.json
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\bin\Debug\net6.0\FactorialRecursivo.dll
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\bin\Debug\net6.0\FactorialRecursivo.pdb
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.AssemblyInfoInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.AssemblyInfo.cs
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.dll
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\refint\FactorialRecursivo.dll
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.pdb
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\FactorialRecursivo.genruntimeconfig.cache
+C:\Users\chperez\Documents\CursoCsharp\FactorialRecursivo\FactorialRecursivo\obj\Debug\net6.0\ref\FactorialRecursivo.dll

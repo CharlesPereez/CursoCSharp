@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\LanzamientoExcepciones.exe.config
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\LanzamientoExcepciones.exe
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\LanzamientoExcepciones.pdb
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.exe
+C:\Users\chperez\Documents\CursoCsharp\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\LanzamientoExcepciones.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListaLigada003/1.0.0": {
+        "runtime": {
+          "ListaLigada003.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaLigada003/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\bin\Debug\ColasQueue.exe.config
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\bin\Debug\ColasQueue.exe
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\bin\Debug\ColasQueue.pdb
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\obj\Debug\ColasQueue.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\obj\Debug\ColasQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\obj\Debug\ColasQueue.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\obj\Debug\ColasQueue.exe
+C:\Users\chperez\Documents\CursoCsharp\ColasQueue\ColasQueue\obj\Debug\ColasQueue.pdb

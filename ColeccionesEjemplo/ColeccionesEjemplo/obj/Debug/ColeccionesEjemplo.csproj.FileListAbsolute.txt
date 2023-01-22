@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\bin\Debug\ColeccionesEjemplo.exe.config
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\bin\Debug\ColeccionesEjemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\bin\Debug\ColeccionesEjemplo.pdb
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\obj\Debug\ColeccionesEjemplo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\obj\Debug\ColeccionesEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\obj\Debug\ColeccionesEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\obj\Debug\ColeccionesEjemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\ColeccionesEjemplo\ColeccionesEjemplo\obj\Debug\ColeccionesEjemplo.pdb

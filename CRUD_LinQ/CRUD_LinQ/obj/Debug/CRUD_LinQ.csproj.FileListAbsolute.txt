@@ -1,0 +1,16 @@
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\bin\Debug\CRUD_LinQ.exe.config
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\bin\Debug\CRUD_LinQ.exe
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\bin\Debug\CRUD_LinQ.pdb
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\MainWindow.g.cs
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\App.g.cs
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ_MarkupCompile.cache
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ_MarkupCompile.lref
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\MainWindow.baml
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.g.resources
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.Properties.Resources.resources
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.csproj.GenerateResource.cache
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.exe
+C:\Users\chperez\Documents\CursoCsharp\CRUD_LinQ\CRUD_LinQ\obj\Debug\CRUD_LinQ.pdb

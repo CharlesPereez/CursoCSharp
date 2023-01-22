@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\bin\Debug\EjemploPOO.exe.config
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\bin\Debug\EjemploPOO.exe
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\bin\Debug\EjemploPOO.pdb
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.exe
+C:\Users\chperez\Documents\CursoCsharp\EjemploPOO\EjemploPOO\obj\Debug\EjemploPOO.pdb

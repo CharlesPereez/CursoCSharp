@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\bin\Debug\Desctructores.exe.config
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\bin\Debug\Desctructores.exe
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\bin\Debug\Desctructores.pdb
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\obj\Debug\Desctructores.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\obj\Debug\Desctructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\obj\Debug\Desctructores.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\obj\Debug\Desctructores.exe
+C:\Users\chperez\Documents\CursoCsharp\Desctructores\Desctructores\obj\Debug\Desctructores.pdb

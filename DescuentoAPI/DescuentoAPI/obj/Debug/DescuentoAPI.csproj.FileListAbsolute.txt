@@ -1,0 +1,7 @@
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\bin\DescuentoAPI.dll.config
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\bin\DescuentoAPI.dll
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\bin\DescuentoAPI.pdb
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\obj\Debug\DescuentoAPI.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\obj\Debug\DescuentoAPI.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\obj\Debug\DescuentoAPI.dll
+C:\Users\chperez\Documents\CursoCsharp\DescuentoAPI\DescuentoAPI\obj\Debug\DescuentoAPI.pdb

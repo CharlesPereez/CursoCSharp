@@ -1,0 +1,16 @@
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\bin\Debug\RadioButton_Ejemplo.exe.config
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\bin\Debug\RadioButton_Ejemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\bin\Debug\RadioButton_Ejemplo.pdb
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\MainWindow.g.cs
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\App.g.cs
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo_MarkupCompile.cache
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo_MarkupCompile.lref
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\MainWindow.baml
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.g.resources
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.Properties.Resources.resources
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.csproj.GenerateResource.cache
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\RadioButton_Ejemplo\RadioButton_Ejemplo\obj\Debug\RadioButton_Ejemplo.pdb

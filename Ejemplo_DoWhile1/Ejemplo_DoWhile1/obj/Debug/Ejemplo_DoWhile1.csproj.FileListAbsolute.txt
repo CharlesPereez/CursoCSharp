@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\bin\Debug\Ejemplo_DoWhile1.exe.config
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\bin\Debug\Ejemplo_DoWhile1.exe
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\bin\Debug\Ejemplo_DoWhile1.pdb
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\obj\Debug\Ejemplo_DoWhile1.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\obj\Debug\Ejemplo_DoWhile1.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\obj\Debug\Ejemplo_DoWhile1.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\obj\Debug\Ejemplo_DoWhile1.exe
+C:\Users\chperez\Documents\CursoCsharp\Ejemplo_DoWhile1\Ejemplo_DoWhile1\obj\Debug\Ejemplo_DoWhile1.pdb

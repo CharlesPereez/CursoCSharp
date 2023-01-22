@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\bin\Debug\Delegado.exe.config
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\bin\Debug\Delegado.exe
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\bin\Debug\Delegado.pdb
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\obj\Debug\Delegado.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\obj\Debug\Delegado.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\obj\Debug\Delegado.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\obj\Debug\Delegado.exe
+C:\Users\chperez\Documents\CursoCsharp\Delegado\Delegado\obj\Debug\Delegado.pdb

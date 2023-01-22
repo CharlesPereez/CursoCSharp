@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\bin\Debug\EjercicioProperties.exe.config
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\bin\Debug\EjercicioProperties.exe
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\bin\Debug\EjercicioProperties.pdb
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\obj\Debug\EjercicioProperties.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\obj\Debug\EjercicioProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\obj\Debug\EjercicioProperties.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\obj\Debug\EjercicioProperties.exe
+C:\Users\chperez\Documents\CursoCsharp\EjercicioProperties\EjercicioProperties\obj\Debug\EjercicioProperties.pdb

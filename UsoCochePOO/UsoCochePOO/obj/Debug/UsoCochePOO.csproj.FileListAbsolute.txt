@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\bin\Debug\UsoCochePOO.exe.config
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\bin\Debug\UsoCochePOO.exe
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\bin\Debug\UsoCochePOO.pdb
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\obj\Debug\UsoCochePOO.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\obj\Debug\UsoCochePOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\obj\Debug\UsoCochePOO.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\obj\Debug\UsoCochePOO.exe
+C:\Users\chperez\Documents\CursoCsharp\UsoCochePOO\UsoCochePOO\obj\Debug\UsoCochePOO.pdb

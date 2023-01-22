@@ -1,0 +1,16 @@
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\bin\Debug\ComboBox_Ejemplo.exe.config
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\bin\Debug\ComboBox_Ejemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\bin\Debug\ComboBox_Ejemplo.pdb
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\MainWindow.g.cs
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\App.g.cs
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo_MarkupCompile.cache
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo_MarkupCompile.lref
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\MainWindow.baml
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.g.resources
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.Properties.Resources.resources
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.csproj.GenerateResource.cache
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\ComboBox_Ejemplo\ComboBox_Ejemplo\obj\Debug\ComboBox_Ejemplo.pdb

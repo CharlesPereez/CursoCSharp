@@ -1,0 +1,16 @@
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\bin\Debug\DataBindingEjemplo.exe.config
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\bin\Debug\DataBindingEjemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\bin\Debug\DataBindingEjemplo.pdb
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\MainWindow.g.cs
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\App.g.cs
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo_MarkupCompile.cache
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo_MarkupCompile.lref
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\MainWindow.baml
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.g.resources
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.Properties.Resources.resources
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.csproj.GenerateResource.cache
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.exe
+C:\Users\chperez\Documents\CursoCsharp\DataBindingEjemplo\DataBindingEjemplo\obj\Debug\DataBindingEjemplo.pdb

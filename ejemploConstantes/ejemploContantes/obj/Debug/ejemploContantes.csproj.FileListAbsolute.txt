@@ -1,0 +1,8 @@
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\bin\Debug\ejemploContantes.exe.config
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\bin\Debug\ejemploContantes.exe
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\bin\Debug\ejemploContantes.pdb
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\obj\Debug\ejemploContantes.csproj.AssemblyReference.cache
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\obj\Debug\ejemploContantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\obj\Debug\ejemploContantes.csproj.CoreCompileInputs.cache
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\obj\Debug\ejemploContantes.exe
+C:\Users\chperez\Documents\CursoCsharp\ejemploContantes\ejemploContantes\obj\Debug\ejemploContantes.pdb
